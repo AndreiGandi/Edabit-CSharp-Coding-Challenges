@@ -127,6 +127,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oddish vs. Evenish", "Oddis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wurst Is Better", "Wurst Is Better\Wurst Is Better.csproj", "{6FB4142E-9785-4736-9291-FB8B5453E08A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Largest Numbers in a Group of Arrays", "Find the Largest Numbers in a Group of Arrays\Find the Largest Numbers in a Group of Arrays.csproj", "{29B9A759-BA46-4D9F-8085-3A23598C353A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No Yelling", "No Yelling\No Yelling.csproj", "{54D798FC-EB62-4E00-ACAC-DD1121A17494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Museum of Incredibly DULL Things", "The Museum of Incredibly DULL Things\The Museum of Incredibly DULL Things.csproj", "{6586F807-AE2F-43E5-89E3-ED7CB6E063B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAndNot", "ReverseAndNot\ReverseAndNot.csproj", "{74C5FFC4-8A2F-4922-A9BA-909EB8BBE8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smooth Sentences", "Smooth Sentences\Smooth Sentences.csproj", "{0C039823-A675-43B3-AB95-1189C562E8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switcharoo", "Switcharoo\Switcharoo.csproj", "{9182AE40-3B95-471F-A27C-6F575A599BFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +393,30 @@ Global
 		{6FB4142E-9785-4736-9291-FB8B5453E08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FB4142E-9785-4736-9291-FB8B5453E08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FB4142E-9785-4736-9291-FB8B5453E08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B9A759-BA46-4D9F-8085-3A23598C353A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B9A759-BA46-4D9F-8085-3A23598C353A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B9A759-BA46-4D9F-8085-3A23598C353A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B9A759-BA46-4D9F-8085-3A23598C353A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D798FC-EB62-4E00-ACAC-DD1121A17494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D798FC-EB62-4E00-ACAC-DD1121A17494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D798FC-EB62-4E00-ACAC-DD1121A17494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D798FC-EB62-4E00-ACAC-DD1121A17494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6586F807-AE2F-43E5-89E3-ED7CB6E063B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6586F807-AE2F-43E5-89E3-ED7CB6E063B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6586F807-AE2F-43E5-89E3-ED7CB6E063B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6586F807-AE2F-43E5-89E3-ED7CB6E063B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C5FFC4-8A2F-4922-A9BA-909EB8BBE8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C5FFC4-8A2F-4922-A9BA-909EB8BBE8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C5FFC4-8A2F-4922-A9BA-909EB8BBE8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C5FFC4-8A2F-4922-A9BA-909EB8BBE8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C039823-A675-43B3-AB95-1189C562E8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C039823-A675-43B3-AB95-1189C562E8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C039823-A675-43B3-AB95-1189C562E8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C039823-A675-43B3-AB95-1189C562E8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9182AE40-3B95-471F-A27C-6F575A599BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9182AE40-3B95-471F-A27C-6F575A599BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9182AE40-3B95-471F-A27C-6F575A599BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9182AE40-3B95-471F-A27C-6F575A599BFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
