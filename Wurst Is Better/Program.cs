@@ -10,14 +10,30 @@ namespace Wurst_Is_Better
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(WurstIsBetter("I like chorizos, but not sausages"));
+            Console.WriteLine(WurstIsBetter("...n crackers— I couldn't get enough of the salty, spicy Wurst"));
         }
         public static string WurstIsBetter(string str)
         {
-            string format = "^(Kielbasa|Chorizo|Moronga|Salami|Sausage|Andouille|Naem|Merguez|Gurka|Snorkers|Pepperoni)$";
-            
+            string pattern = "(?i)(Kielbasa|Chorizo|Moronga|Salami|Sausage|Andouille|Naem|Merguez|Gurka|Snorkers|Pepperoni).";
 
-            return Regex.Replace(str, format, "Wurst");
+            string newString = Regex.Replace(str, pattern, "Wurst");
+
+            return newString;
+        }
+        //Withou REGEX
+        public static string WurstIsBetter_v2(string str)
+        {
+            string[] sausages = new string[]
+            {
+        "Kielbasa", "Chorizo", "Moronga", "Salami", "Sausage", "Andouille",
+        "Naem", "Merguez", "Gurka", "Snorkers", "Pepperoni"
+            };
+            foreach (string sausage in sausages)
+            {
+                str = str.Replace(sausage, "Wurst");
+                str = str.Replace(sausage.ToLower(), "Wurst");
+            }
+            return str;
         }
     }
 }
