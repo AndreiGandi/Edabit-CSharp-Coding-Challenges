@@ -21,30 +21,17 @@ namespace Clear_Brackets
         }
         public static bool Brackets(string str)
         {
-            bool open = false;
-            bool pairs = false;
-            bool isCorrectFormatted = true;
-            for(int i=0; i<str.Length; i++)
+            int bracketsIndicator = 0;
+            for (int i = 0; i < str.Length; i++)
             {
-                if (str[i] == ')' && open == false && pairs == false)
-                    return false;
-                else if(str[i] == '(')
-                {
-                    open = true;
-                    for(int j = str.Length-1; j>i;j--)
-                    {
-                        isCorrectFormatted = false;
-                        if (str[j] == ')')
-                        {
-                            open = false;
-                            pairs = true;
-                            isCorrectFormatted = true;
-                            break;
-                        }
-                    }
-                }
+                if (str[i] == '(')
+                    bracketsIndicator++;
+                if (str[i] == ')')
+                    bracketsIndicator--;
             }
-            return isCorrectFormatted;
+            if (bracketsIndicator == 0)
+                return true;
+            else return false;
         }
 
     }

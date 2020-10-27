@@ -14,11 +14,12 @@ namespace Correct_Inequality_Signs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(CorrectSigns("3 < 7 < 11"));
+            Console.WriteLine(CorrectSigns("1 < 2 < 6 < 9 > 3"));
         }
         public static bool CorrectSigns(string str)
         {
-            string trimmedString = str.Replace(" ", "");
+            string[] trimmedString = str.Split(' ');
+            
             bool result = true;
             for(int i=0; i< trimmedString.Length-2; i+=2)
             {
