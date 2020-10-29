@@ -223,6 +223,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifying the Last Characte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is the Average of All Elements a Whole Number", "Is the Average of All Elements a Whole Number\Is the Average of All Elements a Whole Number.csproj", "{8B7076DC-6B68-4399-9F72-1F7A158B7BE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Re-Form the Word", "Re-Form the Word\Re-Form the Word.csproj", "{2BB7F887-D2A0-4ADA-B4C2-5AF18C192B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse and Capitalize", "Reverse and Capitalize\Reverse and Capitalize.csproj", "{691146A3-517C-45B5-B936-853305311098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is the Input Factorial of an Integer", "Is the Input Factorial of an Integer\Is the Input Factorial of an Integer.csproj", "{08499BC6-A09B-4874-A33B-C1A36C119CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Major Sum", "The Major Sum\The Major Sum.csproj", "{32E61329-7926-4B00-B168-5B7F6008492F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Karaca Encryption Algorithm", "The Karaca Encryption Algorithm\The Karaca Encryption Algorithm.csproj", "{E453BC5E-C2C0-4247-8BD7-ADDFBB4AEBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms Binary Search", "Algorithms Binary Search\Algorithms Binary Search.csproj", "{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -669,6 +681,30 @@ Global
 		{8B7076DC-6B68-4399-9F72-1F7A158B7BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B7076DC-6B68-4399-9F72-1F7A158B7BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B7076DC-6B68-4399-9F72-1F7A158B7BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB7F887-D2A0-4ADA-B4C2-5AF18C192B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB7F887-D2A0-4ADA-B4C2-5AF18C192B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB7F887-D2A0-4ADA-B4C2-5AF18C192B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB7F887-D2A0-4ADA-B4C2-5AF18C192B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691146A3-517C-45B5-B936-853305311098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691146A3-517C-45B5-B936-853305311098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691146A3-517C-45B5-B936-853305311098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691146A3-517C-45B5-B936-853305311098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08499BC6-A09B-4874-A33B-C1A36C119CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08499BC6-A09B-4874-A33B-C1A36C119CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08499BC6-A09B-4874-A33B-C1A36C119CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08499BC6-A09B-4874-A33B-C1A36C119CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E61329-7926-4B00-B168-5B7F6008492F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E61329-7926-4B00-B168-5B7F6008492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E61329-7926-4B00-B168-5B7F6008492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E61329-7926-4B00-B168-5B7F6008492F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E453BC5E-C2C0-4247-8BD7-ADDFBB4AEBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E453BC5E-C2C0-4247-8BD7-ADDFBB4AEBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E453BC5E-C2C0-4247-8BD7-ADDFBB4AEBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E453BC5E-C2C0-4247-8BD7-ADDFBB4AEBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
