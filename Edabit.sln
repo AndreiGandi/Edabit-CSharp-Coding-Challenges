@@ -235,6 +235,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Karaca Encryption Algor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms Binary Search", "Algorithms Binary Search\Algorithms Binary Search.csproj", "{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion to Repeat a String n Number of Times", "Recursion to Repeat a String n Number of Times\Recursion to Repeat a String n Number of Times.csproj", "{CC4B3EEE-8EA1-4409-AFF1-F16B20FD042A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveStringsLength", "RecursiveStringsLength\RecursiveStringsLength.csproj", "{F0E6193B-71EB-44BB-B344-644655F28D40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -705,6 +709,14 @@ Global
 		{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F0D8E9E-5D7E-4CF0-ADEB-6CE3F50FD5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4B3EEE-8EA1-4409-AFF1-F16B20FD042A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4B3EEE-8EA1-4409-AFF1-F16B20FD042A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4B3EEE-8EA1-4409-AFF1-F16B20FD042A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4B3EEE-8EA1-4409-AFF1-F16B20FD042A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E6193B-71EB-44BB-B344-644655F28D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E6193B-71EB-44BB-B344-644655F28D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E6193B-71EB-44BB-B344-644655F28D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E6193B-71EB-44BB-B344-644655F28D40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
