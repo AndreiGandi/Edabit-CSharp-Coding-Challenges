@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion to Repeat a Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveStringsLength", "RecursiveStringsLength\RecursiveStringsLength.csproj", "{F0E6193B-71EB-44BB-B344-644655F28D40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Prime Numbers", "Sum of Prime Numbers\Sum of Prime Numbers.csproj", "{C08333C0-1053-49B6-8227-33F4ACE8C61E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +719,10 @@ Global
 		{F0E6193B-71EB-44BB-B344-644655F28D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0E6193B-71EB-44BB-B344-644655F28D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0E6193B-71EB-44BB-B344-644655F28D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08333C0-1053-49B6-8227-33F4ACE8C61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08333C0-1053-49B6-8227-33F4ACE8C61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08333C0-1053-49B6-8227-33F4ACE8C61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08333C0-1053-49B6-8227-33F4ACE8C61E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
