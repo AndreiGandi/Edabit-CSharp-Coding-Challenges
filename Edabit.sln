@@ -253,6 +253,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Censored Strings", "Censore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nth Fibonacci Number", "Nth Fibonacci Number\Nth Fibonacci Number.csproj", "{35BAC75F-B444-418E-A892-9F24A4DB10B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split the String into N Cases of Equal Length", "Split the String into N Cases of Equal Length\Split the String into N Cases of Equal Length.csproj", "{CFC06BD5-54BF-453F-8236-716369F4B568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -759,6 +761,10 @@ Global
 		{35BAC75F-B444-418E-A892-9F24A4DB10B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35BAC75F-B444-418E-A892-9F24A4DB10B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35BAC75F-B444-418E-A892-9F24A4DB10B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC06BD5-54BF-453F-8236-716369F4B568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC06BD5-54BF-453F-8236-716369F4B568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC06BD5-54BF-453F-8236-716369F4B568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC06BD5-54BF-453F-8236-716369F4B568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
