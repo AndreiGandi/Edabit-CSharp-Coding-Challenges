@@ -24,7 +24,12 @@ namespace Mangle_the_String
 
                 if (char.IsLetter(ch))
                 {
-                    sb.Append(Convert.ToChar((int)ch + 1).ToString());
+                    if ((int)ch == 90)
+                        sb.Append((char)65);
+                    else if((int)ch == 122)
+                        sb.Append((char)97);
+
+                    else sb.Append(Convert.ToChar((int)ch + 1).ToString());
                 }
                 else if (char.IsWhiteSpace(ch)) sb.Append(" ");
                 else sb.Append(ch);
