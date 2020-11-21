@@ -259,6 +259,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moran Numbers", "Moran Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mangle the String", "Mangle the String\Mangle the String.csproj", "{82877B09-385F-4658-AA73-B807617A3BAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolling Cipher", "Rolling Cipher\Rolling Cipher.csproj", "{FC16D7EB-90DD-440E-A33A-30A90246D8CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -777,6 +779,10 @@ Global
 		{82877B09-385F-4658-AA73-B807617A3BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82877B09-385F-4658-AA73-B807617A3BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82877B09-385F-4658-AA73-B807617A3BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC16D7EB-90DD-440E-A33A-30A90246D8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC16D7EB-90DD-440E-A33A-30A90246D8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC16D7EB-90DD-440E-A33A-30A90246D8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC16D7EB-90DD-440E-A33A-30A90246D8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
