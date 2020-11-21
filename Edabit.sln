@@ -257,6 +257,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split the String into N Cas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moran Numbers", "Moran Numbers\Moran Numbers.csproj", "{B1155071-9EBB-472E-BB33-A96F35DBED6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mangle the String", "Mangle the String\Mangle the String.csproj", "{82877B09-385F-4658-AA73-B807617A3BAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -771,6 +773,10 @@ Global
 		{B1155071-9EBB-472E-BB33-A96F35DBED6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1155071-9EBB-472E-BB33-A96F35DBED6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1155071-9EBB-472E-BB33-A96F35DBED6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82877B09-385F-4658-AA73-B807617A3BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82877B09-385F-4658-AA73-B807617A3BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82877B09-385F-4658-AA73-B807617A3BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82877B09-385F-4658-AA73-B807617A3BAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
