@@ -16,7 +16,7 @@ namespace TesteAlgoritmi
             //string txt = "AAPL dsadasda sadadsada dsadasda AAPL sadasdadsa";
             //Console.WriteLine(FindIndex(txt));
 
-            Console.WriteLine(Relationship(9,9));
+            Console.WriteLine(ImposterFormula(1,9));
 
         }
 
@@ -49,6 +49,13 @@ namespace TesteAlgoritmi
             else rel = $"{a} = {b}";
 
             return rel;
+        }
+
+        public static string ImposterFormula(int i, int p)
+        {
+            double percentage = (100.0 * i / p);
+            string sPercentage = string.Format("{0:##}%", percentage);
+            return sPercentage;
         }
     }
 }

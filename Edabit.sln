@@ -261,6 +261,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mangle the String", "Mangle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolling Cipher", "Rolling Cipher\Rolling Cipher.csproj", "{FC16D7EB-90DD-440E-A33A-30A90246D8CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break Point", "Break Point\Break Point.csproj", "{A3916B46-1477-47C2-A655-3E3859AD313C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -783,6 +785,10 @@ Global
 		{FC16D7EB-90DD-440E-A33A-30A90246D8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC16D7EB-90DD-440E-A33A-30A90246D8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC16D7EB-90DD-440E-A33A-30A90246D8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3916B46-1477-47C2-A655-3E3859AD313C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3916B46-1477-47C2-A655-3E3859AD313C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3916B46-1477-47C2-A655-3E3859AD313C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3916B46-1477-47C2-A655-3E3859AD313C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
