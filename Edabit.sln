@@ -273,6 +273,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friday the 13th", "Friday t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhyme Time", "Rhyme Time\Rhyme Time.csproj", "{0DBB2BA1-7ED4-4E00-96E7-6687729EBCAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazing Edabit", "Amazing Edabit\Amazing Edabit.csproj", "{9978DFA5-7F19-4CF3-BC1E-15E76CB3A6EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -819,6 +821,10 @@ Global
 		{0DBB2BA1-7ED4-4E00-96E7-6687729EBCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DBB2BA1-7ED4-4E00-96E7-6687729EBCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DBB2BA1-7ED4-4E00-96E7-6687729EBCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9978DFA5-7F19-4CF3-BC1E-15E76CB3A6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9978DFA5-7F19-4CF3-BC1E-15E76CB3A6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9978DFA5-7F19-4CF3-BC1E-15E76CB3A6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9978DFA5-7F19-4CF3-BC1E-15E76CB3A6EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
