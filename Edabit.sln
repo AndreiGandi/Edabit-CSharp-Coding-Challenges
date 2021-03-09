@@ -289,6 +289,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse the Odd Length Word
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Product Problem Part 2", "Two Product Problem Part 2\Two Product Problem Part 2.csproj", "{F19404B5-8DEC-431D-9D60-C450983E42BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Exponents of Prime Factors", "Return Exponents of Prime Factors\Return Exponents of Prime Factors.csproj", "{8977EDAA-7B4A-46FC-87B3-659031D9F3F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -867,6 +869,10 @@ Global
 		{F19404B5-8DEC-431D-9D60-C450983E42BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F19404B5-8DEC-431D-9D60-C450983E42BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F19404B5-8DEC-431D-9D60-C450983E42BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8977EDAA-7B4A-46FC-87B3-659031D9F3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8977EDAA-7B4A-46FC-87B3-659031D9F3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8977EDAA-7B4A-46FC-87B3-659031D9F3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8977EDAA-7B4A-46FC-87B3-659031D9F3F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
