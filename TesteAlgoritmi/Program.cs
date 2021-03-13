@@ -16,7 +16,10 @@ namespace TesteAlgoritmi
             //string txt = "AAPL dsadasda sadadsada dsadasda AAPL sadasdadsa";
             //Console.WriteLine(FindIndex(txt));
 
-            Console.WriteLine(ImposterFormula(1,9));
+            //Console.WriteLine(ImposterFormula(1,9));
+            string beads = "abcacac";
+            
+                Console.WriteLine(GetResult(beads));
 
         }
 
@@ -57,5 +60,21 @@ namespace TesteAlgoritmi
             string sPercentage = string.Format("{0:##}%", percentage);
             return sPercentage;
         }
+        public static int FourLetters(string names)
+        {
+            int fourLetters = 0;
+            string[] namesArr = names.Split(' ');
+            foreach (var name in namesArr)
+            {
+                if (name.Length == 4)
+                    fourLetters++;
+            }
+            return fourLetters;
+        }
+        public static int GetResult(string beads)
+        {
+            return beads.LastIndexOf('a');
+        }
+
     }
 }
