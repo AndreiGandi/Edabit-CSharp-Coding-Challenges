@@ -293,6 +293,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Exponents of Prime F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do All Bigrams Exist", "Do All Bigrams Exist\Do All Bigrams Exist.csproj", "{B30E4AE4-B1FE-485E-91E7-778171A9FCAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Closest Palindrome Number", "Closest Palindrome Number\Closest Palindrome Number.csproj", "{229B1834-0E89-4ABC-917B-09D6199F1094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -879,6 +881,10 @@ Global
 		{B30E4AE4-B1FE-485E-91E7-778171A9FCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B30E4AE4-B1FE-485E-91E7-778171A9FCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B30E4AE4-B1FE-485E-91E7-778171A9FCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229B1834-0E89-4ABC-917B-09D6199F1094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229B1834-0E89-4ABC-917B-09D6199F1094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229B1834-0E89-4ABC-917B-09D6199F1094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229B1834-0E89-4ABC-917B-09D6199F1094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
